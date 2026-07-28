@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1488CC,100:2B32B2&height=220&section=header&text=Vinicius%20Silva%20Santos&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:2C5364,60:1B6B93,100:5CC9D8&height=220&section=header&text=Vinicius%20Silva%20Santos&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
 <br>
 
@@ -37,12 +37,12 @@ Developer me = Developer.builder()
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ViniSantosDev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniSantosDev&layout=compact&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ViniSantosDev&show_icons=true&theme=cobalt&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniSantosDev&layout=compact&theme=cobalt" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniSantosDev&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniSantosDev&theme=cobalt" />
 </p>
 
 ## ✉️ Contato
